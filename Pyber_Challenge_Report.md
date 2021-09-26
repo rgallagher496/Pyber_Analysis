@@ -4,11 +4,13 @@ Prepared by Robert Gallagher
 ## Overview
 
 The purpose of this analysis is to look at total weekly fares by city type over a fixed time frame for PyBer rides.  The analysis was done using python.  See the link below to review the script.
-(Python Script)[Pyber_Challenge.ipynb]
 
-The data source are provided csv files located here
-- (City Data)[Resources/city_data.csv]
-- (Ride Data)[Resources/ride_data.csv]
+[Python Script](Pyber_Challenge.ipynb)
+
+The data source are provided csv files located here:
+
+[City Data](Resources/city_data.csv)
+[Ride Data](Resources/ride_data.csv)
 
 ## Results
 
