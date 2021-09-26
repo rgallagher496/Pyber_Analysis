@@ -10,6 +10,7 @@ The purpose of this analysis is to look at total weekly fares by city type over 
 The data source are provided csv files located here:
 
 [City Data](Resources/city_data.csv)
+
 [Ride Data](Resources/ride_data.csv)
 
 ## Results
